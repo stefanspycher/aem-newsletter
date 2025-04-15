@@ -1,11 +1,10 @@
-# Inside AEM (Edge Delivery)
-Inside AEM website with Edge Delivery, hosting the PLA blog
+# AEM News
+An AEM internal news management service
 
 ## Environments
-- Preview: https://main--inside-aem--adobe.hlx.page/
-- Live: https://main--inside-aem--adobe.hlx.live/
-- https://re-think.adobe.com/
-- https://culture-tecture.adobe.com/
+- Preview: https://main--aem-newsletter--adobe.hlx.page/
+- Live: https://main--aem-newsletter--adobe.hlx.live/
+
 
 ## Installation
 
